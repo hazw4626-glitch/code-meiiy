@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Website Saya</title>
+  <link rel="stylesheet" href="default.css">
+</head>
+<body>
+
+<h1>Hello 👋 Website dah hidup</h1>
+
+<script src="functions.js"></script>
+</body>
+</html>
